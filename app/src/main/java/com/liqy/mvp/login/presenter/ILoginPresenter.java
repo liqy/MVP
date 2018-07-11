@@ -10,7 +10,7 @@ public interface ILoginPresenter {
     void clear();
 
     /**
-     * 执行登录接口
+     * 执行登录接口 ，与服务器交互，耗时操作
      *
      * @param name
      * @param passwd

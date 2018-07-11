@@ -19,6 +19,7 @@ import com.liqy.mvp.login.view.ILoginView;
 public class LoginActivity extends AppCompatActivity implements ILoginView, View.OnClickListener {
 
     ILoginPresenter loginPresenter;
+
     private EditText editUser;
     private EditText editPass;
     private Button btnLogin;

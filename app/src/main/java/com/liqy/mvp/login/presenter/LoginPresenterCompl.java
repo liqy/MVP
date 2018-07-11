@@ -12,7 +12,9 @@ import com.liqy.mvp.login.view.ILoginView;
  * Created by kaede on 2015/5/18.
  */
 public class LoginPresenterCompl implements ILoginPresenter {
+
     ILoginView iLoginView;
+
     IUser user;
     Handler handler;
 

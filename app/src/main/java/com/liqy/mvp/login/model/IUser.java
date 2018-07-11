@@ -1,7 +1,7 @@
 package com.liqy.mvp.login.model;
 
 /**
- *
+ *模型接口
  */
 public interface IUser {
 
